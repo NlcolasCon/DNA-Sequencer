@@ -56,6 +56,8 @@ DNA-Sequencer/
 -Developed by Nicolas Constantinou
 -2025
 
+---
+
 ## Usage
 
 ### Compile/Run:
